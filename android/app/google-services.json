@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531627845336",
+    "project_id": "kasama-towers-lodge",
+    "storage_bucket": "kasama-towers-lodge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531627845336:android:0a78d934ce178de3cd59ad",
+        "android_client_info": {
+          "package_name": "com.kasamatowers.kasama_towers_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59xDx5vggMv0fn1rJV6Fs0hHsqGX6XG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531627845336:android:ce2846675b688bc6cd59ad",
+        "android_client_info": {
+          "package_name": "com.unilus.kasama_towers_lodge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59xDx5vggMv0fn1rJV6Fs0hHsqGX6XG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
